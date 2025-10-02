@@ -8,15 +8,14 @@ Cybersecurity student documenting my learning path.
 This GitHub profile demonstrates my cybersecurity capabilities through practical projects and technical implementations. Each repository reflects hands-on application of security principles, industry-standard tools, and best practices aligned with my Security+ and Google Cloud Security certifications.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Honeypot Deployment & Threat Intelligence       | <a href="https://github.com/pkatha706-dot/Honeypot-hosted-in-Cloud">Honeypot hosted in Cloud</a>|
+| Incident Response & Breach Remediation          | <a href="https://github.com/pkatha706-dot/Data-Breach-Incident-Response-and-Remediation">Data Breach Response and Remediation</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -49,5 +48,5 @@ This GitHub profile demonstrates my cybersecurity capabilities through practical
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+-  <a href="https://github.com/pkatha706-dot/Honeypot-hosted-in-Cloud">Honeypot hosted in Cloud</a>
+-  <a href="https://github.com/pkatha706-dot/Data-Breach-Incident-Response-and-Remediation">Data Breach Response and Remediation</a>
