@@ -14,9 +14,7 @@ This GitHub profile demonstrates my cybersecurity capabilities through practical
 |-----------------------------------------------|----------------------------|
 | Honeypot Deployment & Threat Intelligence       | <a href="https://github.com/pkatha706-dot/Honeypot-hosted-in-Cloud">Honeypot hosted in Cloud</a>|
 | Incident Response & Breach Remediation          | <a href="https://github.com/pkatha706-dot/Data-Breach-Incident-Response-and-Remediation">Data Breach Response and Remediation</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
