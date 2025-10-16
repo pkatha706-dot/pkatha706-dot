@@ -14,10 +14,16 @@ This GitHub profile demonstrates my cybersecurity capabilities through practical
 |-----------------------------------------------|----------------------------|
 | Honeypot Deployment & Threat Intelligence       | <a href="https://github.com/pkatha706-dot/Honeypot-hosted-in-Cloud">Honeypot hosted in Cloud</a>|
 | Incident Response & Breach Remediation          | <a href="https://github.com/pkatha706-dot/Data-Breach-Incident-Response-and-Remediation">Data Breach Response and Remediation</a>|
+| Port Scanner and Banner Grabber Using Python    | <a href="https://github.com/pkatha706-dot/port-scanner-banner-grabber">Port Scanner and Banner Grabber</a>
 
 
 ## Tools
 
+### Scripting 
+<div>
+    <img scr="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+
+</div>
 
 ### Network
 <div>
@@ -48,3 +54,4 @@ This GitHub profile demonstrates my cybersecurity capabilities through practical
 ## Projects
 -  <a href="https://github.com/pkatha706-dot/Honeypot-hosted-in-Cloud">Honeypot hosted in Cloud</a>
 -  <a href="https://github.com/pkatha706-dot/Data-Breach-Incident-Response-and-Remediation">Data Breach Response and Remediation</a>
+-  <a href="https://github.com/pkatha706-dot/port-scanner-banner-grabber">Port Scanner and Banner Grabber</a>
