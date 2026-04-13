@@ -15,7 +15,7 @@ This GitHub profile demonstrates my cybersecurity capabilities through practical
 | Honeypot Deployment & Threat Intelligence       | <a href="https://github.com/pkatha706-dot/Honeypot-hosted-in-Cloud">Honeypot hosted in Cloud</a>|
 | Incident Response & Breach Remediation          | <a href="https://github.com/pkatha706-dot/Data-Breach-Incident-Response-and-Remediation">Data Breach Response and Remediation</a>|
 | Port Scanner and Banner Grabber Using Python    | <a href="https://github.com/pkatha706-dot/port-scanner-banner-grabber">Port Scanner and Banner Grabber</a>
-
+| OWASP Juice Shop: Full-Scope Penetration Test + ELK SIEM | <a href="https://github.com/pkatha706-dot/juiceshop-pentest-elk-siem">Juiceshop Pentenst</a>|
 
 ## Tools
 
@@ -55,3 +55,4 @@ This GitHub profile demonstrates my cybersecurity capabilities through practical
 -  <a href="https://github.com/pkatha706-dot/Honeypot-hosted-in-Cloud">Honeypot hosted in Cloud</a>
 -  <a href="https://github.com/pkatha706-dot/Data-Breach-Incident-Response-and-Remediation">Data Breach Response and Remediation</a>
 -  <a href="https://github.com/pkatha706-dot/port-scanner-banner-grabber">Port Scanner and Banner Grabber</a>
+-  <a href="https://github.com/pkatha706-dot/juiceshop-pentest-elk-siem">Juiceshop Pentenst</a>
