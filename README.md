@@ -21,6 +21,8 @@ This GitHub profile demonstrates my cybersecurity capabilities through practical
 
 ### Scripting 
 <div>
+    
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
     <img scr="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
 
 </div>
