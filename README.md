@@ -21,17 +21,21 @@ This GitHub profile demonstrates my cybersecurity capabilities through practical
 
 ### Scripting 
 <div>
-    
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-    <img scr="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
-### Network
+### Penetration testing and Security Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-7AC142?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+</div>
+
+### Infrastructure and Virtualization
+<div>
+<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ### Cloud
@@ -39,6 +43,7 @@ This GitHub profile demonstrates my cybersecurity capabilities through practical
     <img src="https://img.shields.io/badge/-Google%20Cloud%20Console-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Security%20Command%20Center-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cloud%20Shell-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
 ### SIEM
