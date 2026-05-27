@@ -1,11 +1,11 @@
 # Hello, I'm Katha Patel
 <a href="https://linkedin.com/in/kathadpatel/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity student documenting my learning path.
+Cybersecurity Student · Detection Engineer · Cloud Security Practitioner
 
-## Objective
+## About Me
 
-This GitHub profile demonstrates my cybersecurity capabilities through practical projects and technical implementations. Each repository reflects hands-on application of security principles, industry-standard tools, and best practices aligned with my Security+ and Google Cloud Security certifications.
+I'm a cybersecurity student at UMGC building real-world skills through end-to-end hands-on projects. My work spans offensive security, detection engineering, cloud incident response, and threat intelligence — covering both red and blue team disciplines in the same lab environments.
 
 ## Skills
 
@@ -15,7 +15,9 @@ This GitHub profile demonstrates my cybersecurity capabilities through practical
 | Honeypot Deployment & Threat Intelligence       | <a href="https://github.com/pkatha706-dot/Honeypot-hosted-in-Cloud">Honeypot hosted in Cloud</a>|
 | Incident Response & Breach Remediation          | <a href="https://github.com/pkatha706-dot/Data-Breach-Incident-Response-and-Remediation">Data Breach Response and Remediation</a>|
 | Port Scanner and Banner Grabber Using Python    | <a href="https://github.com/pkatha706-dot/port-scanner-banner-grabber">Port Scanner and Banner Grabber</a>
-| OWASP Juice Shop: Full-Scope Penetration Test + ELK SIEM | <a href="https://github.com/pkatha706-dot/juiceshop-pentest-elk-siem">Juiceshop Pentenst</a>|
+| Web-Threat-Detector: ELK SIEM Detections for OWASP Top 10 Vulnerabilities | <a href="https://github.com/pkatha706-dot/juiceshop-pentest-elk-siem">Juiceshop Pentenst</a>|
+| Python Web Crawler                              | <a href="https://github.com/pkatha706-dot/python-web-crawler">Web Crawler</a>|
+| NIST-CSF 2.0                                    | <a href="https://github.com/pkatha706-dot/NIST-CSF-Incident-Report">Incident Response & NIST CSF 2.0 Alignment: ICMP Flood Attack</a>|
 
 ## Tools
 
@@ -58,8 +60,6 @@ This GitHub profile demonstrates my cybersecurity capabilities through practical
 <img src="https://img.shields.io/badge/-Google%20Cloud%20Cybersecurity%20(Coursera)-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
 </div>
 
-## Projects
--  <a href="https://github.com/pkatha706-dot/Honeypot-hosted-in-Cloud">Honeypot hosted in Cloud</a>
--  <a href="https://github.com/pkatha706-dot/Data-Breach-Incident-Response-and-Remediation">Data Breach Response and Remediation</a>
--  <a href="https://github.com/pkatha706-dot/port-scanner-banner-grabber">Port Scanner and Banner Grabber</a>
--  <a href="https://github.com/pkatha706-dot/juiceshop-pentest-elk-siem">Juiceshop Pentenst</a>
+## Let's Connect
+I'm actively seeking internship and entry-level opportunities in cybersecurity — SOC, penetration testing, or cloud security roles.
+Connect on LinkedIn(<a href="https://linkedin.com/in/kathadpatel/">) or explore my projects above.
