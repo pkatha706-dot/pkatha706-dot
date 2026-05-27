@@ -62,4 +62,4 @@ I'm a cybersecurity student at UMGC building real-world skills through end-to-en
 
 ## Let's Connect
 I'm actively seeking internship and entry-level opportunities in cybersecurity — SOC, penetration testing, or cloud security roles.
-Connect on (<a href="https://linkedin.com/in/kathadpatel/">)Linkledn or explore my projects above.
+Connect on Linkledn or explore my projects above.
