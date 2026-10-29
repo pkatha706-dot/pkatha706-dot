@@ -26,13 +26,17 @@ I'm a cybersecurity student at UMGC building real-world skills through end-to-en
 <div>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 ### Penetration testing and Security Tools
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-7AC142?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-7AC142?&style=for-the-badge&logo=nmap&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bandit-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/-OWASP%20ZAP-00549E?style=for-the-badge&logo=zap&logoColor=white" />
 </div>
 
 ### Infrastructure and Virtualization
