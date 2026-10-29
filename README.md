@@ -16,6 +16,7 @@ I'm a cybersecurity student at UMGC building real-world skills through end-to-en
 | Incident Response & Breach Remediation          | <a href="https://github.com/pkatha706-dot/Data-Breach-Incident-Response-and-Remediation">Data Breach Response and Remediation</a>|
 | Port Scanner and Banner Grabber Using Python    | <a href="https://github.com/pkatha706-dot/port-scanner-banner-grabber">Port Scanner and Banner Grabber</a>
 | Web-Threat-Detector: ELK SIEM Detections for OWASP Top 10 Vulnerabilities | <a href="https://github.com/pkatha706-dot/juiceshop-pentest-elk-siem">Juiceshop Pentenst</a>|
+| DevSecOps                              | <a href="https://github.com/pkatha706-dot/DevSecOps-pipeline">DevSecOps Pipeline</a>|
 | Python Web Crawler                              | <a href="https://github.com/pkatha706-dot/python-web-crawler">Web Crawler</a>|
 | NIST-CSF 2.0                                    | <a href="https://github.com/pkatha706-dot/NIST-CSF-Incident-Report">Incident Response & NIST CSF 2.0 Alignment: ICMP Flood Attack</a>|
 
